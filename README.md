@@ -55,4 +55,4 @@ Predict which passengers are transported to an alternate dimension
 	- CatBoostClassifier. Тест выборка Accuracy: Accuracy: 0.7855089131684876
 		- Выборка для предсказания на сайте Kaggle: Accuracy: 0.80173
 - Ансамбль CatBoostClassifier и SVC показал результаты хуже.
-# Экспериментировал с данными и гиперпараметрами
+- Экспериментировал с данными и гиперпараметрами
